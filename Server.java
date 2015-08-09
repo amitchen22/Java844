@@ -1,5 +1,5 @@
 /*
- * Created on 2004. 6. 19.
+ * Created on 2004. 6. 19.eee
  */
 package chipchat;
 
