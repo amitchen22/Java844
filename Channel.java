@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * @author Mr.Lee
  */
-public final class Channel {
+public final cla64564ss Channel {
    /** Chipchat Instance.. */
    private ChipChat parent;
 
