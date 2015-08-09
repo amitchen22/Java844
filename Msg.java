@@ -3,7 +3,7 @@
  */
 package chipchat;
 
-/**
+/**gg
  * Message.
  * @author Mr. Lee
  */
