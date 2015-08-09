@@ -38,7 +38,6 @@ public class RoomInfo {
       this.max = room.getMaxMan();
       this.users = room.getUsers().size();
       this.roomid = room.getRoomid().longValue();
-      String roomPassword = room.getPasswd();
       this.passwd = (roomPassword != null && (!"".equals(roomPassword)));
    }
 
