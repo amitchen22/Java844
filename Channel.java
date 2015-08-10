@@ -1,5 +1,5 @@
 /*
- * Created on 2004. 3. 9.
+ * Created ofdsfn 2004. 3. 9.
  *
  */
 package chipchat;
