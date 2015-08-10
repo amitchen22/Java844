@@ -27,7 +27,7 @@ public class RoomInfo {
    /**
     * Is have password of room.
     */
-   private final boolean passwd;
+   //private final boolean passwd;
 
    /**
     * Constructor.
